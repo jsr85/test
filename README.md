@@ -67,5 +67,11 @@ The simulator uses a black oil formulation for managing PVT data in either three
 * Model calibration
 * External plots.
 
-![](.gitbook/assets/image.png)
+## Test
+
+{% file src=".gitbook/assets/netool\_release\_notes.pdf" caption="Netoo" %}
+
+{% page-ref page="./" %}
+
+
 
