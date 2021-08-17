@@ -71,7 +71,5 @@ The simulator uses a black oil formulation for managing PVT data in either three
 
 {% file src=".gitbook/assets/netool\_release\_notes.pdf" caption="Netoo" %}
 
-{% page-ref page="./" %}
-
-
+NETool\_Release\_Notes.pdf
 
